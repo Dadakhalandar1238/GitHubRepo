@@ -4,3 +4,42 @@ My name is Khalandar
 Hello
 bye
 Take care
+   27  git -version
+   28  git --version
+   77  git --version
+  737  git add DayMonth.sh
+  887  git init
+  888  git remote add origin "https://github.com/Dadakhalandar1238/GitHubRepo.git"
+  889  git add .
+  890  git status
+  891  git commit -m "[Dadakhalandar1238]Add. simple text message"
+  892  git status
+  894  git add .
+  895  git status
+  896  git commit -m "[Dadakhalandar1238]Add. simple text message"
+  897  git config --global user.name
+  898  git config --global user.name "Dadakhalandar1238"
+  899  git config --global user.email "dada.khalandar.1238@gmail.com"
+  900  git commit -m "[Dadakhalandar1238]Add. simple text message"
+  901  git push origin master
+  902  git status
+  903  git diff
+  904  git diff file.txt
+  905  git status
+  906  git pull origin master
+  907  git diff
+  908  git diff file.txt
+  909  git branch -b Git-Branch
+  911  git branch Git-branch
+  913  git checkout Git-branch
+  914  git checkout master
+  915  git status
+  916  git diff
+  917  git diff remote master
+  918  git pull origin master
+  920  git diff Git-branch master
+  921  git merg master Git-branch
+  922  git merge master Git-branch
+  923  git status
+  924  git push origin Git-branch
+  925  git status
